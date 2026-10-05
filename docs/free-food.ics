@@ -5,673 +5,8 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:UT Free Food
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-UID:Dd2EFznJEZJ@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20260928T220000Z
-DTEND:20260928T230000Z
-SUMMARY:History honors and NSP panel (Phi Alpha Theta\, Beta Alpha Chapte
- r - History) - free food
-LOCATION:Garrison rm 2.124
-DESCRIPTION:Food: Snacks\nEvent posted same day at 3:39 PM for 5 PM event
-  tonight\nOriginal post: https://www.instagram.com/p/Dd2EFznJEZJ/
-URL:https://www.instagram.com/p/Dd2EFznJEZJ/
-END:VEVENT
-BEGIN:VEVENT
-UID:Ddzm3azAZLP@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20260928T220000Z
-DTEND:20260928T230000Z
-SUMMARY:SWEATT Powerhour (Heman Sweatt Center for Collegiate Males) - fre
- e food
-LOCATION:Gordon-White Building (GWB)
-DESCRIPTION:Food: Free food provided\nOpen to collegiate males\; includes
-  mentorship and Hot Topic discussions\nOriginal post: https://www.instagr
- am.com/p/Ddzm3azAZLP/
-URL:https://www.instagram.com/p/Ddzm3azAZLP/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd1U4QiRcAJ@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20260928T230000Z
-DTEND:20260929T000000Z
-SUMMARY:Resume Writing Workshop (Queer Business Student Association) - fr
- ee food
-LOCATION:CBA 5.130 (Peggy Drake Lounge)
-DESCRIPTION:Food: TacoDeli provided\nOriginal post: https://www.instagram
- .com/p/Dd1U4QiRcAJ/
-URL:https://www.instagram.com/p/Dd1U4QiRcAJ/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd1Vw9vx-Ex@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20260928T233000Z
-DTEND:20260929T003000Z
-SUMMARY:Advocacy Meeting (Longhorn International Justice Mission) - free 
- food
-LOCATION:GAR 0.120
-DESCRIPTION:Food: Snacks provided\nBring a friend for free Lucky Lab coff
- ee card\nOriginal post: https://www.instagram.com/p/Dd1Vw9vx-Ex/
-URL:https://www.instagram.com/p/Dd1Vw9vx-Ex/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd1VuIgTsj8@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20260929T000000Z
-DTEND:20260929T010000Z
-SUMMARY:General Meeting #2 (Emancipet on Campus) - free food
-LOCATION:JGB 2.202
-DESCRIPTION:Food: Snacks\nOriginal post: https://www.instagram.com/p/Dd1V
- uIgTsj8/
-URL:https://www.instagram.com/p/Dd1VuIgTsj8/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd0KnXSgiyf@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20260929T003000Z
-DTEND:20260929T020000Z
-SUMMARY:Bananarchy Social (Texas Society of Professional Engineers at the
-  University of Texas at Austin) - free food
-LOCATION:2420 Guadalupe St\, Austin\, TX 78705
-DESCRIPTION:Food: Bananarchy desserts\nAfter TSPE GM #3\; guests welcome\
- nOriginal post: https://www.instagram.com/p/Dd0KnXSgiyf/
-URL:https://www.instagram.com/p/Dd0KnXSgiyf/
-END:VEVENT
-BEGIN:VEVENT
-UID:DdxGUU2kap2@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-SUMMARY:Bonds and Bites (Nueces Mosque - Student Chapter) - free food
-LOCATION:Musalla
-DESCRIPTION:Food: Maghreb - Isha\nFirst of multiple weekly events\; see p
- ost for Qur'an Class\, Tasty Tuesday\, Tajweed Class\, Fajr Breakfast\, H
- ot Ones on following dates\nOriginal post: https://www.instagram.com/p/Dd
- xGUU2kap2/
-URL:https://www.instagram.com/p/DdxGUU2kap2/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd2OyGBlRRe@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20260929T170000Z
-DTEND:20260929T183000Z
-SUMMARY:HDR Lunch & Learn (National Society of Black Engineers) - free fo
- od
-LOCATION:Harris Lounge EER 0.702
-DESCRIPTION:Food: Food provided\nOriginal post: https://www.instagram.com
- /p/Dd2OyGBlRRe/
-URL:https://www.instagram.com/p/Dd2OyGBlRRe/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd0GkyxNWNo@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20260929T230000Z
-DTEND:20260930T000000Z
-SUMMARY:GradHillel Sushi in the Sukkah (Texas Hillel) - free food
-LOCATION:Sukkah
-DESCRIPTION:Food: Sushi\nOriginal post: https://www.instagram.com/p/Dd0Gk
- yxNWNo/
-URL:https://www.instagram.com/p/Dd0GkyxNWNo/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd13JNJprzV@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20260929T230000Z
-DTEND:20260930T000000Z
-SUMMARY:General Meeting #2 with Skyways (American Institute of Aeronautic
- s and Astronautics) - free food
-LOCATION:ASE 1.126
-DESCRIPTION:Food: Free food provided\nOriginal post: https://www.instagra
- m.com/p/Dd13JNJprzV/
-URL:https://www.instagram.com/p/Dd13JNJprzV/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd1b4jepKUW@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20260929T230000Z
-DTEND:20260930T000000Z
-SUMMARY:Bridges Break (Bridges International - Texas Chapter) - free food
-LOCATION:William C. Powers\, Jr. Student Activity Center 1.118
-DESCRIPTION:Food: Snacks\nRecurring event every Tuesday\nOriginal post: h
- ttps://www.instagram.com/p/Dd1b4jepKUW/
-URL:https://www.instagram.com/p/Dd1b4jepKUW/
-END:VEVENT
-BEGIN:VEVENT
-UID:Ddzgz6VPLDj@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20260929T230000Z
-DTEND:20260930T000000Z
-SUMMARY:BOLT GM #3 (Biomedical Outreach and Leadership Team) - free food
-LOCATION:BME 3.204 Seminar Room
-DESCRIPTION:Food: Dinner provided\nOriginal post: https://www.instagram.c
- om/p/Ddzgz6VPLDj/
-URL:https://www.instagram.com/p/Ddzgz6VPLDj/
-END:VEVENT
-BEGIN:VEVENT
-UID:Ddw6xK7ipRE@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20260929T230000Z
-DTEND:20260930T000000Z
-SUMMARY:General Meeting #3 with Kimley Horn Speaker (American Academy of 
- Environmental Engineers and Scientists at the University of Texas) - free
-  food
-LOCATION:ECJ 1.1304
-DESCRIPTION:Food: Dinner provided\nDues payment collected at this meeting
- \; speaker from Kimley Horn on water/wastewater engineering\nOriginal pos
- t: https://www.instagram.com/p/Ddw6xK7ipRE/
-URL:https://www.instagram.com/p/Ddw6xK7ipRE/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd10ZL7ma3Y@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20260929T233000Z
-DTEND:20260930T003000Z
-SUMMARY:ISPE General Meeting #3 (The International Society for Pharmaceut
- ical Engineering) - free food
-LOCATION:BUR 130
-DESCRIPTION:Food: Chick-fil-A provided\nOriginal post: https://www.instag
- ram.com/p/Dd10ZL7ma3Y/
-URL:https://www.instagram.com/p/Dd10ZL7ma3Y/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd2EX1uP-mK@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20260930T000000Z
-DTEND:20260930T010000Z
-SUMMARY:Talk on Theosis with Father V (Orthodox Christian Fellowship of t
- he University of Texas at Austin) - free food
-LOCATION:Episcopal Student Center
-DESCRIPTION:Food: Dinner provided\nLast meeting of the month\nOriginal po
- st: https://www.instagram.com/p/Dd2EX1uP-mK/
-URL:https://www.instagram.com/p/Dd2EX1uP-mK/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd1y1NtlEZJ@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20260930T010000Z
-DTEND:20260930T023000Z
-SUMMARY:S:UM Worship (The Fruits) - free food
-LOCATION:RLP 0.104
-DESCRIPTION:Food: Bread and special hoodies for new students (first come\
- , first served)\nWeekly worship series focused on Psalm 119\; part of Sea
- son 17 fall semester\nOriginal post: https://www.instagram.com/p/Dd1y1Ntl
- EZJ/
-URL:https://www.instagram.com/p/Dd1y1NtlEZJ/
-END:VEVENT
-BEGIN:VEVENT
-UID:DdzX7BFH9Dh@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20260930T010000Z
-DTEND:20260930T023000Z
-SUMMARY:S.U:M Worship (The Fruits) - free food
-LOCATION:RLP 0.104
-DESCRIPTION:Food: Snacks and fellowship after worship\nRecurring every Tu
- esday\, Fall 2026 calendar\nOriginal post: https://www.instagram.com/p/Dd
- zX7BFH9Dh/
-URL:https://www.instagram.com/p/DdzX7BFH9Dh/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd4lX-fltIT@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-SUMMARY:Tasty Tuesday (Nueces Mosque - Student Chapter) - free food
-LOCATION:
-DESCRIPTION:Food: tasty treats\nRecurring every Tuesday after Maghreb pra
- yers\nOriginal post: https://www.instagram.com/p/Dd4lX-fltIT/
-URL:https://www.instagram.com/p/Dd4lX-fltIT/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd5STFeNvI_@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20260930T150000Z
-DTEND:20260930T180000Z
-SUMMARY:McCOMBS Coffee Date (Texas Disney Development Team) - free food
-LOCATION:CBA 3.400
-DESCRIPTION:Food: Coffee and cookies\nFinal recruiter event for the semes
- ter\nOriginal post: https://www.instagram.com/p/Dd5STFeNvI_/
-URL:https://www.instagram.com/p/Dd5STFeNvI_/
-END:VEVENT
-BEGIN:VEVENT
-UID:DdxppkcHymg@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20260930T171500Z
-DTEND:20260930T184500Z
-SUMMARY:Hot Spot Briefing - Sudan (The National Security Collective) - fr
- ee food
-LOCATION:LBJ School - SRH 3.122
-DESCRIPTION:Food: Lunch provided\nRegistration required\; also info sessi
- ons for Baltic May Term (Sept 28) and Texas Intelligence Academy\nOrigina
- l post: https://www.instagram.com/p/DdxppkcHymg/
-URL:https://www.instagram.com/p/DdxppkcHymg/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd1mVToxHzn@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20260930T220000Z
-DTEND:20260930T230000Z
-SUMMARY:SQL Workshop (Women in Data and Statistics) - free food
-LOCATION:WET 3.310
-DESCRIPTION:Food: snacks\nOriginal post: https://www.instagram.com/p/Dd1m
- VToxHzn/
-URL:https://www.instagram.com/p/Dd1mVToxHzn/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd1mx9Fxi-K@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20260930T230000Z
-DTEND:20261001T000000Z
-SUMMARY:General Meeting #3 with Datum Engineers (Architectural Engineerin
- g Institute) - free food
-LOCATION:CPE 2.208
-DESCRIPTION:Original post: https://www.instagram.com/p/Dd1mx9Fxi-K/
-URL:https://www.instagram.com/p/Dd1mx9Fxi-K/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd2myp_MpK0@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20260930T230000Z
-DTEND:20261001T000000Z
-SUMMARY:Corporate Preparation Workshop (Black Business Student Associatio
- n) - free food
-LOCATION:CBA Events Room 3.304
-DESCRIPTION:Food: Food provided\nAdobe partnership\; resume review availa
- ble\nOriginal post: https://www.instagram.com/p/Dd2myp_MpK0/
-URL:https://www.instagram.com/p/Dd2myp_MpK0/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd2jV8Ym-q3@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20260930T230000Z
-DTEND:20261001T000000Z
-SUMMARY:OTM Writing Party (University Residence Hall Association) - free 
- food
-LOCATION:Dobie Twenty21 Game Room
-DESCRIPTION:Food: Free pizza and slushies\nOriginal post: https://www.ins
- tagram.com/p/Dd2jV8Ym-q3/
-URL:https://www.instagram.com/p/Dd2jV8Ym-q3/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd2ELiZyJW4@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20260930T230000Z
-DTEND:20261001T000000Z
-SUMMARY:General Meeting (Fynix) - free food
-LOCATION:JES A303A
-DESCRIPTION:Food: Pizza for the first people who arrive\nOctober planning
- : volunteering opportunities\, guest speakers\, updates\nOriginal post: h
- ttps://www.instagram.com/p/Dd2ELiZyJW4/
-URL:https://www.instagram.com/p/Dd2ELiZyJW4/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd2CCyUPHO3@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20260930T230000Z
-DTEND:20261001T010000Z
-SUMMARY:Web Exploitation Talk (Information and Systems Security Society (
- ISSS)) - free food
-LOCATION:GDC 1.406
-DESCRIPTION:Food: Cabo Bob's Nachos\nSpeaker: Khael Kugler (Praetorian Le
- ad Security Engineer and ISSS alumni)\nOriginal post: https://www.instagr
- am.com/p/Dd2CCyUPHO3/
-URL:https://www.instagram.com/p/Dd2CCyUPHO3/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd1qdg5FHiV@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20260930T230000Z
-DTEND:20261001T010000Z
-SUMMARY:General Meeting #3 with Will Hilzinger (American Society of Mecha
- nical Engineers) - free food
-LOCATION:CPE 2.214
-DESCRIPTION:Food: Chi'lantro\nOriginal post: https://www.instagram.com/p/
- Dd1qdg5FHiV/
-URL:https://www.instagram.com/p/Dd1qdg5FHiV/
-END:VEVENT
-BEGIN:VEVENT
-UID:DdzVf7vCamu@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20260930T230000Z
-DTEND:20261001T003000Z
-SUMMARY:Shark Tank Pitch Night (Texas Economics Association) - free food
-LOCATION:BRB 2.136
-DESCRIPTION:Food: Catered by Cabo Bobs\nOriginal post: https://www.instag
- ram.com/p/DdzVf7vCamu/
-URL:https://www.instagram.com/p/DdzVf7vCamu/
-END:VEVENT
-BEGIN:VEVENT
-UID:DdxXZcZN9vv@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20260930T230000Z
-DTEND:20261001T010000Z
-SUMMARY:Painting Night (Bengali Students Association) - free food
-LOCATION:Union Courtyard
-DESCRIPTION:Food: yummy snacks\nOriginal post: https://www.instagram.com/
- p/DdxXZcZN9vv/
-URL:https://www.instagram.com/p/DdxXZcZN9vv/
-END:VEVENT
-BEGIN:VEVENT
-UID:Ddwx91cCQsb@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20260930T230000Z
-DTEND:20261001T000000Z
-SUMMARY:GM3 Clinical Skills (Global Medical Training) - free food
-LOCATION:WCP 2.224
-DESCRIPTION:Food: Celsius energy drinks provided\nPartnership with Celsiu
- s\; come grab drinks before meeting\nOriginal post: https://www.instagram
- .com/p/Ddwx91cCQsb/
-URL:https://www.instagram.com/p/Ddwx91cCQsb/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd1PhqpNF1b@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20260930T231500Z
-DTEND:20261001T003000Z
-SUMMARY:Case Study with Exencial Wealth Advisors (Wealth Management Stude
- nt Organization) - free food
-LOCATION:GSB 5.142A
-DESCRIPTION:Food: Free dinner provided\nMembers only\nMembers must have p
- aid dues and completed membership form to attend\nOriginal post: https://
- www.instagram.com/p/Dd1PhqpNF1b/
-URL:https://www.instagram.com/p/Dd1PhqpNF1b/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd4Y9Myh7fB@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20260930T233000Z
-DTEND:20261001T003000Z
-SUMMARY:General Meeting with Pato Escalante - CBRE (Latin Economics and B
- usiness Association) - free food
-LOCATION:UTC 1.104
-DESCRIPTION:Food: Raising Cane's chicken\nInternship opportunity presente
- d to attendees only\nOriginal post: https://www.instagram.com/p/Dd4Y9Myh7
- fB/
-URL:https://www.instagram.com/p/Dd4Y9Myh7fB/
-END:VEVENT
-BEGIN:VEVENT
-UID:DdzlIy-iUwa@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20261001T000000Z
-DTEND:20261001T010000Z
-SUMMARY:Beyond Sexuality: Love Unlike Anything Else (Every Nation Campus)
-  - free food
-LOCATION:WCP 1.106
-DESCRIPTION:Food: Free food provided\nOriginal post: https://www.instagra
- m.com/p/DdzlIy-iUwa/
-URL:https://www.instagram.com/p/DdzlIy-iUwa/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd4kG_RylJ1@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20261001T000000Z
-DTEND:20261001T010000Z
-SUMMARY:General Meeting #2 (Texas Pre-Dental Society) - free food
-LOCATION:WEL 1.308
-DESCRIPTION:Food: Food served until 6:50 PM\nGuest speaker: Dr. Shailee G
- upta\, general dentist from Northwest Hills Smiles\nOriginal post: https:
- //www.instagram.com/p/Dd4kG_RylJ1/
-URL:https://www.instagram.com/p/Dd4kG_RylJ1/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd4C6eLx5L3@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20261001T000000Z
-DTEND:20261001T010000Z
-SUMMARY:Career Fair Celebration (Diversity in Advertising & PR) - free fo
- od
-LOCATION:DMC 4.212
-DESCRIPTION:Food: Food served (details not specified)\nFirst social after
-  Moody Career Fair\nOriginal post: https://www.instagram.com/p/Dd4C6eLx5L
- 3/
-URL:https://www.instagram.com/p/Dd4C6eLx5L3/
-END:VEVENT
-BEGIN:VEVENT
-UID:Ddzwb76M-Z1@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20261001T003000Z
-DTEND:20261001T020000Z
-SUMMARY:Sister's Big/Little Reveal (Muslim Students' Association) - free 
- food
-LOCATION:9 @ Rio - 1st Floor
-DESCRIPTION:Food: Surprise vendor\nMembers only\nBig/Little pairing revea
- l event\; mention dress code: pastels\, florals & lace\nOriginal post: ht
- tps://www.instagram.com/p/Ddzwb76M-Z1/
-URL:https://www.instagram.com/p/Ddzwb76M-Z1/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd6xix5lR0k@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20261001T003000Z
-DTEND:20261001T013000Z
-SUMMARY:Revive (Revive Texas Ministries) - free food
-LOCATION:University Avenue Church of Christ
-DESCRIPTION:Food: Dinner\nWorship at 8:00 PM\, topic is dating\nOriginal 
- post: https://www.instagram.com/p/Dd6xix5lR0k/
-URL:https://www.instagram.com/p/Dd6xix5lR0k/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd37NBdxf0E@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20261001T003000Z
-DTEND:20261001T010000Z
-SUMMARY:Revive - Growing Up in Dating (Revive Texas Ministries) - free fo
- od
-LOCATION:1903 University Ave (University Avenue Church of Christ)
-DESCRIPTION:Food: Free dinner at 7:30 PM\nGuest speaker t_david from The 
- Austin Stone\; event starts at 8 PM after dinner\nOriginal post: https://
- www.instagram.com/p/Dd37NBdxf0E/
-URL:https://www.instagram.com/p/Dd37NBdxf0E/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd7KxUmIBtI@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20261001T163000Z
-DTEND:20261001T183000Z
-SUMMARY:Prevention Connection: A Resource Fair for Relationship Violence 
- Prevention Month (Title IX Office) - free food
-LOCATION:SSB Lobby
-DESCRIPTION:Food: Food and drinks provided\nMultiple RVPM events schedule
- d throughout October\; soonest listed here\nOriginal post: https://www.in
- stagram.com/p/Dd7KxUmIBtI/
-URL:https://www.instagram.com/p/Dd7KxUmIBtI/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd5CF_mDOls@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20261001T170000Z
-DTEND:20261001T180000Z
-SUMMARY:Lunch 'n Learn with McKinsey & Company (American Society of Mecha
- nical Engineers) - free food
-LOCATION:TBD
-DESCRIPTION:Food: Taco Deli\nLocation TBD\, to be posted on story\nOrigin
- al post: https://www.instagram.com/p/Dd5CF_mDOls/
-URL:https://www.instagram.com/p/Dd5CF_mDOls/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd2HCxUPD4b@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20261001T220000Z
-DTEND:20261001T230000Z
-SUMMARY:Financial Literacy Workshop: FAFSA Edition (The Center for Studen
- ts in Recovery) - free food
-LOCATION:WCP 2.112
-DESCRIPTION:Food: Light refreshments\nOriginal post: https://www.instagra
- m.com/p/Dd2HCxUPD4b/
-URL:https://www.instagram.com/p/Dd2HCxUPD4b/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd1iNlGHD--@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20261001T224500Z
-DTEND:20261002T003000Z
-SUMMARY:INH Olympics Reed Family Picnic Game (Polymathic Scholars Student
-  Leadership Panel) - free food
-LOCATION:Caven-Clark Courts
-DESCRIPTION:Picnic game 5:45-6pm\, Pickleball Finals 6-7:30pm\nOriginal p
- ost: https://www.instagram.com/p/Dd1iNlGHD--/
-URL:https://www.instagram.com/p/Dd1iNlGHD--/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd2anB7JAgx@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20261001T230000Z
-DTEND:20261002T010000Z
-SUMMARY:Back to ASO - General Body Meeting (African Students Organization
- ) - free food
-LOCATION:RLP 0.102
-DESCRIPTION:Food: Food provided by Suya ATX\n2nd GBM\; debate on hot topi
- cs\, culture\, and student life\nOriginal post: https://www.instagram.com
- /p/Dd2anB7JAgx/
-URL:https://www.instagram.com/p/Dd2anB7JAgx/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd1slNoxfAe@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20261001T230000Z
-DTEND:20261002T003000Z
-SUMMARY:Excel Workshop (Management Information Systems Association) - fre
- e food
-LOCATION:CBA 4.328
-DESCRIPTION:Food: Dinner provided\nAlso posting about Projects Meeting on
-  9/29 at unknown time\, room TBA via Slack\nOriginal post: https://www.in
- stagram.com/p/Dd1slNoxfAe/
-URL:https://www.instagram.com/p/Dd1slNoxfAe/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd1iE1YgsLh@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20261001T230000Z
-DTEND:20261002T010000Z
-SUMMARY:Trivia Night (Natural Sciences Council) - free food
-LOCATION:PAI 4.28
-DESCRIPTION:Food: Snacks and drinks\nOpportunity to meet members and lear
- n about committees\nOriginal post: https://www.instagram.com/p/Dd1iE1YgsL
- h/
-URL:https://www.instagram.com/p/Dd1iE1YgsLh/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd7UIBgBfp_@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20261001T230000Z
-DTEND:20261002T000000Z
-SUMMARY:General Meeting (Women in Mechanical Engineering) - free food
-LOCATION:ETC 2.132
-DESCRIPTION:Food: Sam's food provided\nThird general meeting of semester\
- ; pipe cleaner craft activity\nOriginal post: https://www.instagram.com/p
- /Dd7UIBgBfp_/
-URL:https://www.instagram.com/p/Dd7UIBgBfp_/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd7EmG4qUXh@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20261001T230000Z
-DTEND:20261002T000000Z
-SUMMARY:SAC General Meeting #2 with Guest Speaker Lin Hermes (Students Ag
- ainst Cancer) - free food
-LOCATION:UTC 1.102
-DESCRIPTION:Food: Pizza\nOriginal post: https://www.instagram.com/p/Dd7Em
- G4qUXh/
-URL:https://www.instagram.com/p/Dd7EmG4qUXh/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd65yxmxV8o@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20261001T230000Z
-DTEND:20261002T003000Z
-SUMMARY:Excel Workshop (Management Information Systems Association) - fre
- e food
-LOCATION:CBA 4.328
-DESCRIPTION:Food: Dinner\nOriginal post: https://www.instagram.com/p/Dd65
- yxmxV8o/
-URL:https://www.instagram.com/p/Dd65yxmxV8o/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd43qSZpew0@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20261001T230000Z
-DTEND:20261002T000000Z
-SUMMARY:Committee Meetings (The Student Solidarity Network) - free food
-LOCATION:Benedict Hall 1.102
-DESCRIPTION:Food: Snacks provided\nFive committees: Culinary\, Creative\,
-  Projects\, Finance\, Outreach. Open to all skills levels.\nOriginal post
- : https://www.instagram.com/p/Dd43qSZpew0/
-URL:https://www.instagram.com/p/Dd43qSZpew0/
-END:VEVENT
-BEGIN:VEVENT
-UID:DduMfCYplam@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20261001T230000Z
-DTEND:20261002T000000Z
-SUMMARY:Bowling Social (Texas Engineering World Health) - free food
-LOCATION:Union Underground Bowling
-DESCRIPTION:Limited spots\, RSVP required\nOriginal post: https://www.ins
- tagram.com/p/DduMfCYplam/
-URL:https://www.instagram.com/p/DduMfCYplam/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd1PhYzlTOR@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20261002T000000Z
-DTEND:20261002T010000Z
-SUMMARY:General Meeting 3 - Starlight (Longhorn EMS) - free food
-LOCATION:JES 121A
-DESCRIPTION:Limegreen social after at 5:30-9:30 PM\; Career Opportunities
-  Zoom Mon 6:30-7:30 PM\; Banner Making Social Wed 7-8 PM at PCL 5.102A\nO
- riginal post: https://www.instagram.com/p/Dd1PhYzlTOR/
-URL:https://www.instagram.com/p/Dd1PhYzlTOR/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd4i7NoNxXV@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20261002T000000Z
-DTEND:20261002T010000Z
-SUMMARY:Second General Meeting - Halloween Themed (Longhorn League of Leg
- ends) - free food
-LOCATION:RLP 1.106
-DESCRIPTION:Food: candy provided\nIncludes League of Legends Mafia game\;
-  group planning to go to ChiCha San Chen afterwards for tea for Heartstee
- l promotion\nOriginal post: https://www.instagram.com/p/Dd4i7NoNxXV/
-URL:https://www.instagram.com/p/Dd4i7NoNxXV/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd345jZRdp2@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20261002T000000Z
-DTEND:20261002T020000Z
-SUMMARY:Family Field Day Hype (Vietnamese Students Association) - free fo
- od
-LOCATION:WEL 3.502
-DESCRIPTION:Food: Officers prepared food for the event\nGM #3 (general me
- eting)\; includes family games\nOriginal post: https://www.instagram.com/
- p/Dd345jZRdp2/
-URL:https://www.instagram.com/p/Dd345jZRdp2/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd6rsDUlnqX@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART:20261002T010000Z
-DTEND:20261002T030000Z
-SUMMARY:Hookah Night (Iranian Students Academic and Cultural Organization
- ) - free food
-LOCATION:The Groupme
-DESCRIPTION:Food: Chai provided\nOriginal post: https://www.instagram.com
- /p/Dd6rsDUlnqX/
-URL:https://www.instagram.com/p/Dd6rsDUlnqX/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dd2H9HAqoWZ@ut-org-events
-DTSTAMP:20261001T004337Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:IEEE x AIChE Movie Night (Institute of Electrical & Electronics E
- ngineers) - free food
-LOCATION:402 Cookies
-DESCRIPTION:Food: Cookies\nCollaborative event with AIChE\nOriginal post:
-  https://www.instagram.com/p/Dd2H9HAqoWZ/
-URL:https://www.instagram.com/p/Dd2H9HAqoWZ/
-END:VEVENT
-BEGIN:VEVENT
 UID:Dd4QTcPOVO7@ut-org-events
-DTSTAMP:20261001T004337Z
+DTSTAMP:20261005T023043Z
 DTSTART:20261002T150000Z
 DTEND:20261002T200000Z
 SUMMARY:AI Mastery in the Oil & Gas Industry (Women in Petroleum and Geos
@@ -684,7 +19,7 @@ URL:https://www.instagram.com/p/Dd4QTcPOVO7/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd7HbmgtTQf@ut-org-events
-DTSTAMP:20261001T004337Z
+DTSTAMP:20261005T023043Z
 DTSTART:20261002T160000Z
 DTEND:20261002T200000Z
 SUMMARY:Mentorship Lucky Lab Tab (Liberal Arts Honors Student Council) - 
@@ -695,8 +30,20 @@ DESCRIPTION:Food: Coffee or drinks from Lucky Lab\nOriginal post: https:/
 URL:https://www.instagram.com/p/Dd7HbmgtTQf/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd7sd0ruk-K@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261002T160000Z
+DTEND:20261002T170000Z
+SUMMARY:Kerem Lunch (Camp Kesem at the University of Texas at Austin) - f
+ ree food
+LOCATION:Unknown
+DESCRIPTION:Multiple events in October\; Kerem Lunch recurs weekly on Fri
+ days at 11-12pm\nOriginal post: https://www.instagram.com/p/Dd7sd0ruk-K/
+URL:https://www.instagram.com/p/Dd7sd0ruk-K/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd0NLxlx5jr@ut-org-events
-DTSTAMP:20261001T004337Z
+DTSTAMP:20261005T023043Z
 DTSTART:20261002T180000Z
 DTEND:20261002T190000Z
 SUMMARY:Friday Lunch with Lisa Blackwell (Health Science Honors Council) 
@@ -709,7 +56,7 @@ URL:https://www.instagram.com/p/Dd0NLxlx5jr/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd40bdikdKs@ut-org-events
-DTSTAMP:20261001T004337Z
+DTSTAMP:20261005T023043Z
 DTSTART:20261002T200000Z
 DTEND:20261002T210000Z
 SUMMARY:GM #2 with Free Tacos (Omega Chi Epsilon - Chemical Engineering) 
@@ -720,8 +67,20 @@ DESCRIPTION:Food: free tacos\nOriginal post: https://www.instagram.com/p/
 URL:https://www.instagram.com/p/Dd40bdikdKs/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd9gx2ZheNP@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261002T200000Z
+DTEND:20261002T220000Z
+SUMMARY:Gender and Sexuality Collecting Movie Night (GSC Student Leadersh
+ ip Committee) - free food
+LOCATION:WCP 3.116
+DESCRIPTION:Food: Popcorn and drinks provided\nVote on movie at start of 
+ meeting\nOriginal post: https://www.instagram.com/p/Dd9gx2ZheNP/
+URL:https://www.instagram.com/p/Dd9gx2ZheNP/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd5IgmVsRGJ@ut-org-events
-DTSTAMP:20261001T004337Z
+DTSTAMP:20261005T023043Z
 DTSTART:20261002T230000Z
 DTEND:20261003T000000Z
 SUMMARY:Alpha Course: How to Gain Confidence in Faith (Austin Chinese Cam
@@ -734,7 +93,7 @@ URL:https://www.instagram.com/p/Dd5IgmVsRGJ/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd4Ow-GxDC-@ut-org-events
-DTSTAMP:20261001T004337Z
+DTSTAMP:20261005T023043Z
 DTSTART:20261002T230000Z
 DTEND:20261003T010000Z
 SUMMARY:Austin CTF Limits (Information and Systems Security Society (ISSS
@@ -746,7 +105,7 @@ URL:https://www.instagram.com/p/Dd4Ow-GxDC-/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd3-zsVRDR8@ut-org-events
-DTSTAMP:20261001T004337Z
+DTSTAMP:20261005T023043Z
 DTSTART:20261002T230000Z
 DTEND:20261003T000000Z
 SUMMARY:Onboarding Social (Longhorn Developers) - free food
@@ -758,7 +117,7 @@ URL:https://www.instagram.com/p/Dd3-zsVRDR8/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd6m4UClmjy@ut-org-events
-DTSTAMP:20261001T004337Z
+DTSTAMP:20261005T023043Z
 DTSTART:20261002T233000Z
 DTEND:20261003T003000Z
 SUMMARY:Shabbat Dinner (Texas Hillel) - free food
@@ -771,8 +130,22 @@ DESCRIPTION:Food: Fresh baked challah rolls\, Asian crunchy cabbage salad
 URL:https://www.instagram.com/p/Dd6m4UClmjy/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd9HoU2kbww@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261003T000000Z
+DTEND:20261003T010000Z
+SUMMARY:Life Talk #2: Friendship Part 2 - Cantonese Seafood Clay Pot Dinn
+ er (International Undergraduate Student Ministry-Austin) - free food
+LOCATION:WCP 2.120
+DESCRIPTION:Food: Free Cantonese seafood claypot dinner\, games and activ
+ ities\, dessert\nOpen to all\, no Bible knowledge required\; free rides o
+ r walk groups home after\nOriginal post: https://www.instagram.com/p/Dd9H
+ oU2kbww/
+URL:https://www.instagram.com/p/Dd9HoU2kbww/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd18sGmlioA@ut-org-events
-DTSTAMP:20261001T004337Z
+DTSTAMP:20261005T023043Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Hot Ones with Imam Ahmed Khan & Mufti Anwer (Nueces Mosque - Stud
@@ -784,8 +157,32 @@ DESCRIPTION:Food: Spicy wings\, dinner provided\nAfter Maghrib prayer\; s
 URL:https://www.instagram.com/p/Dd18sGmlioA/
 END:VEVENT
 BEGIN:VEVENT
+UID:DeFwAFvEe44@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Hot Ones Night (Nueces Mosque - Student Chapter) - free food
+LOCATION:Nueces Mosque
+DESCRIPTION:Food: Hot sauce chicken wings challenge (Hot Ones style)\nEve
+ nt featured Imams Ahmed Khan and Anwer Imam\nOriginal post: https://www.i
+ nstagram.com/p/DeFwAFvEe44/
+URL:https://www.instagram.com/p/DeFwAFvEe44/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd-GJruCXvo@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Fall Getaway (Texas Cru) - free food
+LOCATION:T Bar M Camp Travis\, Spicewood\, TX
+DESCRIPTION:Originally October 2-4 at HEB Camp\; relocated to T Bar M Cam
+ p Travis due to weather concerns. No additional cost for attendees.\nOrig
+ inal post: https://www.instagram.com/p/Dd-GJruCXvo/
+URL:https://www.instagram.com/p/Dd-GJruCXvo/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd690FJFMG5@ut-org-events
-DTSTAMP:20261001T004337Z
+DTSTAMP:20261005T023043Z
 DTSTART:20261003T140000Z
 DTEND:20261003T230000Z
 SUMMARY:Rylander Lakehouse Trip (American Society of Mechanical Engineers
@@ -796,8 +193,21 @@ DESCRIPTION:Rides provided\nOriginal post: https://www.instagram.com/p/Dd
 URL:https://www.instagram.com/p/Dd690FJFMG5/
 END:VEVENT
 BEGIN:VEVENT
+UID:DeDU7x5hcFM@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261004T150000Z
+DTEND:20261004T160000Z
+SUMMARY:Church in Austin Service (Christian Students on Campus) - free fo
+ od
+LOCATION:Russell Lee Elementary School\, 3308 Hampton Road\, Austin\, TX 
+ 78705
+DESCRIPTION:Food: Lunch provided\nOriginal post: https://www.instagram.co
+ m/p/DeDU7x5hcFM/
+URL:https://www.instagram.com/p/DeDU7x5hcFM/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd68HrbNApn@ut-org-events
-DTSTAMP:20261001T004337Z
+DTSTAMP:20261005T023043Z
 DTSTART:20261004T160000Z
 DTEND:20261004T170000Z
 SUMMARY:Morsels from Mekong Cooking Event (Cook 'Em Horns) - free food
@@ -810,7 +220,7 @@ URL:https://www.instagram.com/p/Dd68HrbNApn/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd7cOueNPiO@ut-org-events
-DTSTAMP:20261001T004337Z
+DTSTAMP:20261005T023043Z
 DTSTART:20261004T180000Z
 DTEND:20261004T210000Z
 SUMMARY:Pool Social (Vietnamese Students Association) - free food
@@ -820,8 +230,19 @@ DESCRIPTION:Food: Food will be provided\nOriginal post: https://www.insta
 URL:https://www.instagram.com/p/Dd7cOueNPiO/
 END:VEVENT
 BEGIN:VEVENT
+UID:DeC-EbUJSuh@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261004T203000Z
+DTEND:20261004T223000Z
+SUMMARY:Bake Sale Prep (Foundation Communities on Campus) - free food
+LOCATION:2707 Rio Grande Street\, APT 416
+DESCRIPTION:Fundraiser\; ingredients provided for baking\nOriginal post: 
+ https://www.instagram.com/p/DeC-EbUJSuh/
+URL:https://www.instagram.com/p/DeC-EbUJSuh/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd28Pl1OlTO@ut-org-events
-DTSTAMP:20261001T004337Z
+DTSTAMP:20261005T023043Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:ECLAIR Movie Night (Engineering and Computational Learning of Art
@@ -832,8 +253,42 @@ DESCRIPTION:Food: Popcorn and other snacks\nOriginal post: https://www.in
 URL:https://www.instagram.com/p/Dd28Pl1OlTO/
 END:VEVENT
 BEGIN:VEVENT
+UID:DeF4kWnJuCM@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261005T220000Z
+DTEND:20261005T230000Z
+SUMMARY:Halloween trivia (Phi Alpha Theta\, Beta Alpha Chapter - History)
+  - free food
+LOCATION:2124 GJA
+DESCRIPTION:Food: Snacks\nOriginal post: https://www.instagram.com/p/DeF4
+ kWnJuCM/
+URL:https://www.instagram.com/p/DeF4kWnJuCM/
+END:VEVENT
+BEGIN:VEVENT
+UID:DeFBxzmOG2t@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261005T220000Z
+DTEND:20261005T233000Z
+SUMMARY:Tea and Coffee Night (Dialogue Student Association) - free food
+LOCATION:WCP 2.302
+DESCRIPTION:Food: Tea and coffee\nOriginal post: https://www.instagram.co
+ m/p/DeFBxzmOG2t/
+URL:https://www.instagram.com/p/DeFBxzmOG2t/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd-IiuKu5WA@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261005T220000Z
+DTEND:20261005T233000Z
+SUMMARY:Tea & Coffee Night (Chinese Student Association) - free food
+LOCATION:WCP 2.302
+DESCRIPTION:Co-hosted by DSA\, BSA\, HLSA\, and SEA\nOriginal post: https
+ ://www.instagram.com/p/Dd-IiuKu5WA/
+URL:https://www.instagram.com/p/Dd-IiuKu5WA/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd1teGCuF85@ut-org-events
-DTSTAMP:20261001T004337Z
+DTSTAMP:20261005T023043Z
 DTSTART:20261005T230000Z
 DTEND:20261006T003000Z
 SUMMARY:E+ESSENTIALS WORKSHOP (University Unions) - free food
@@ -845,7 +300,7 @@ URL:https://www.instagram.com/p/Dd1teGCuF85/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1qVecpMpb@ut-org-events
-DTSTAMP:20261001T004337Z
+DTSTAMP:20261005T023043Z
 DTSTART:20261005T230000Z
 DTEND:20261006T000000Z
 SUMMARY:Alumni Event with Christiana Ozuna (Texas Women in Economics) - f
@@ -856,8 +311,34 @@ DESCRIPTION:Food: Food will be provided\nOriginal post: https://www.insta
 URL:https://www.instagram.com/p/Dd1qVecpMpb/
 END:VEVENT
 BEGIN:VEVENT
+UID:DeFW3ZlltHz@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261005T230000Z
+DTEND:20261006T000000Z
+SUMMARY:Shell Company Networking Event (Asian Business Students Associati
+ on) - free food
+LOCATION:UTC 1.102
+DESCRIPTION:Food: Cabo Bobs tacos\nMultiple events this week: House Olymp
+ ics Oct 8 at 6PM Dobie Rooftop\; Alumni Mentorship Program applications a
+ lso open\nOriginal post: https://www.instagram.com/p/DeFW3ZlltHz/
+URL:https://www.instagram.com/p/DeFW3ZlltHz/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd7rp9cRkxt@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261005T230000Z
+DTEND:20261006T000000Z
+SUMMARY:Wall-E Movie Night Social (Environmental Justice Collective) - fr
+ ee food
+LOCATION:GAR 0.132
+DESCRIPTION:Food: snacks\nCollaboration with Sustainability and Food Cons
+ ciousness Club (SFCC)\nOriginal post: https://www.instagram.com/p/Dd7rp9c
+ Rkxt/
+URL:https://www.instagram.com/p/Dd7rp9cRkxt/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd39KWvK0pO@ut-org-events
-DTSTAMP:20261001T004337Z
+DTSTAMP:20261005T023043Z
 DTSTART:20261006T000000Z
 DTEND:20261006T010000Z
 SUMMARY:General Meeting #2 (Student Engineering Council) - free food
@@ -867,8 +348,21 @@ DESCRIPTION:Open to all Cockrell students\; company speaker (United State
 URL:https://www.instagram.com/p/Dd39KWvK0pO/
 END:VEVENT
 BEGIN:VEVENT
+UID:DeGD4rgOwgO@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261006T003000Z
+DTEND:20261006T013000Z
+SUMMARY:Pancake + Cereal Pop Up (OneWay South Asian InterVarsity) - free 
+ food
+LOCATION:Regents on 24th
+DESCRIPTION:Food: Pancakes and cereal\nAlso Third Large Group on Oct 7 at
+  7:30 PM at WCP 2.120\nOriginal post: https://www.instagram.com/p/DeGD4rg
+ OwgO/
+URL:https://www.instagram.com/p/DeGD4rgOwgO/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd4RrJXlIUe@ut-org-events
-DTSTAMP:20261001T004337Z
+DTSTAMP:20261005T023043Z
 DTSTART:20261006T170000Z
 DTEND:20261006T190000Z
 SUMMARY:Free Lunch Buffet (Labyrinth Progressive Student Ministry) - free
@@ -880,7 +374,7 @@ URL:https://www.instagram.com/p/Dd4RrJXlIUe/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd4dLItTiBp@ut-org-events
-DTSTAMP:20261001T004337Z
+DTSTAMP:20261005T023043Z
 DTSTART:20261006T210000Z
 DTEND:20261007T000000Z
 SUMMARY:Wellfest (University Housing and Dining) - free food
@@ -891,8 +385,22 @@ DESCRIPTION:Food: Free food provided\nIn partnership with RecSports\; inc
 URL:https://www.instagram.com/p/Dd4dLItTiBp/
 END:VEVENT
 BEGIN:VEVENT
+UID:DeBrAJ4Rjm1@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261006T220000Z
+DTEND:20261006T230000Z
+SUMMARY:Mental Health Red Flags discussion & NAMIWalks volunteer opportun
+ ity (National Alliance on Mental Illness (NAMI) On Campus at University o
+ f Texas at Austin) - free food
+LOCATION:BUR 128
+DESCRIPTION:General meeting #3\; discusses isolation\, sleep\, loss of mo
+ tivation\, substance misuse\nOriginal post: https://www.instagram.com/p/D
+ eBrAJ4Rjm1/
+URL:https://www.instagram.com/p/DeBrAJ4Rjm1/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd4XF0YF-JQ@ut-org-events
-DTSTAMP:20261001T004337Z
+DTSTAMP:20261005T023043Z
 DTSTART:20261006T221500Z
 DTEND:20261006T231500Z
 SUMMARY:Mat Pilates at the Arena (Recreational Sports) - free food
@@ -904,8 +412,52 @@ DESCRIPTION:Food: Shake Smart samples for post-workout fuel\; free yoga m
 URL:https://www.instagram.com/p/Dd4XF0YF-JQ/
 END:VEVENT
 BEGIN:VEVENT
+UID:DeFvDo_R0W0@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261006T230000Z
+DTEND:20261007T000000Z
+SUMMARY:Taylor Olsen Speaker Event (Texas Advertising Group) - free food
+LOCATION:BUR 112
+DESCRIPTION:Food: Papa John's\nOriginal post: https://www.instagram.com/p
+ /DeFvDo_R0W0/
+URL:https://www.instagram.com/p/DeFvDo_R0W0/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd8JPdPRMQ8@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261006T230000Z
+DTEND:20261007T013000Z
+SUMMARY:Game Night Social (Ismaili Muslim Students Association) - free fo
+ od
+LOCATION:ADJIK\, 501 W 23rd St #1\, Austin\, TX 78705
+DESCRIPTION:Original post: https://www.instagram.com/p/Dd8JPdPRMQ8/
+URL:https://www.instagram.com/p/Dd8JPdPRMQ8/
+END:VEVENT
+BEGIN:VEVENT
+UID:DeA2OXfRzwt@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261006T233000Z
+DTEND:20261007T003000Z
+SUMMARY:General Meeting #2 (Longhorn Bakers) - free food
+LOCATION:ECJ 1.204
+DESCRIPTION:Food: Snacks\nOriginal post: https://www.instagram.com/p/DeA2
+ OXfRzwt/
+URL:https://www.instagram.com/p/DeA2OXfRzwt/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd_4nyVEYP3@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261006T233000Z
+DTEND:20261007T013000Z
+SUMMARY:Dinner & Discussion (Hill House Students) - free food
+LOCATION:Hill House Christian Study Center
+DESCRIPTION:Recurring every Tuesday\nOriginal post: https://www.instagram
+ .com/p/Dd_4nyVEYP3/
+URL:https://www.instagram.com/p/Dd_4nyVEYP3/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd6z5yaJkkr@ut-org-events
-DTSTAMP:20261001T004337Z
+DTSTAMP:20261005T023043Z
 DTSTART:20261007T003000Z
 DTEND:20261007T013000Z
 SUMMARY:Cupcake Decorating Social (Every Child Project) - free food
@@ -917,8 +469,21 @@ DESCRIPTION:Food: Red velvet\, vanilla\, and funfetti cupcakes with fall
 URL:https://www.instagram.com/p/Dd6z5yaJkkr/
 END:VEVENT
 BEGIN:VEVENT
+UID:DeFr2zCjxun@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261007T210000Z
+DTEND:20261007T230000Z
+SUMMARY:Resume Review + Coffee Chats with PwC (Association for Computing 
+ Machinery) - free food
+LOCATION:GDC 2.104
+DESCRIPTION:Food: Food and refreshments provided\nAll majors and years we
+ lcome\; drop-in format\nOriginal post: https://www.instagram.com/p/DeFr2z
+ Cjxun/
+URL:https://www.instagram.com/p/DeFr2zCjxun/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd6ZHfggeyb@ut-org-events
-DTSTAMP:20261001T004337Z
+DTSTAMP:20261005T023043Z
 DTSTART:20261007T230000Z
 DTEND:20261008T010000Z
 SUMMARY:Campus Community Dinner (Labyrinth Progressive Student Ministry) 
@@ -930,8 +495,20 @@ DESCRIPTION:Food: free hot meal\nRecurring every Wednesday\; also feature
 URL:https://www.instagram.com/p/Dd6ZHfggeyb/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd-9TRihQr7@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261007T230000Z
+DTEND:20261008T000000Z
+SUMMARY:Research & Internship Panel (American Institute of Chemical Engin
+ eers) - free food
+LOCATION:TBD
+DESCRIPTION:Food: Cookies\nOriginal post: https://www.instagram.com/p/Dd-
+ 9TRihQr7/
+URL:https://www.instagram.com/p/Dd-9TRihQr7/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd5X7SGR7bm@ut-org-events
-DTSTAMP:20261001T004337Z
+DTSTAMP:20261005T023043Z
 DTSTART:20261008T000000Z
 DTEND:20261008T010000Z
 SUMMARY:Life Talk #2: Friendship Part 2 (International Undergraduate Stud
@@ -943,8 +520,46 @@ DESCRIPTION:Food: Free Cantonese seafood clay pot\, dessert\nFree rides o
 URL:https://www.instagram.com/p/Dd5X7SGR7bm/
 END:VEVENT
 BEGIN:VEVENT
+UID:DeFWQesFB7s@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261008T000000Z
+DTEND:20261008T010000Z
+SUMMARY:General Meeting #2 (Texas Helping Hand) - free food
+LOCATION:RLP 0.128
+DESCRIPTION:Food: Pizza & drinks\nGuest speaker: Jasmin Vargas\, Executiv
+ e Director at Austin Free-Net\nOriginal post: https://www.instagram.com/p
+ /DeFWQesFB7s/
+URL:https://www.instagram.com/p/DeFWQesFB7s/
+END:VEVENT
+BEGIN:VEVENT
+UID:DeAbJswho2h@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261008T000000Z
+DTEND:20261008T010000Z
+SUMMARY:EGaDS + Animators Club Social (Electronic Game Developers Society
+ ) - free food
+LOCATION:GDC 4.304
+DESCRIPTION:Food: Snacks including hot chips\nJoint event with Animators 
+ Club\; Street Fighter Alpha screening and board games\nOriginal post: htt
+ ps://www.instagram.com/p/DeAbJswho2h/
+URL:https://www.instagram.com/p/DeAbJswho2h/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd9v_jHSDAk@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261008T000000Z
+DTEND:20261008T010000Z
+SUMMARY:Getting Involved with Research @ UT + Wikipedia Speedrun (Women i
+ n Aerospace for Leadership and Development) - free food
+LOCATION:ASE 1.128
+DESCRIPTION:Food: Food provided for everyone\nGeneral Meeting #3\; includ
+ es Wikipedia speedrun with prizes\nOriginal post: https://www.instagram.c
+ om/p/Dd9v_jHSDAk/
+URL:https://www.instagram.com/p/Dd9v_jHSDAk/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd4pkWsTvZP@ut-org-events
-DTSTAMP:20261001T004337Z
+DTSTAMP:20261005T023043Z
 DTSTART:20261008T223000Z
 DTEND:20261008T233000Z
 SUMMARY:Hot Questions and Hotter Wings (TX Votes) - free food
@@ -955,8 +570,127 @@ DESCRIPTION:Food: Hot wings\nPanel discussion with local leaders and expe
 URL:https://www.instagram.com/p/Dd4pkWsTvZP/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd__U3jASvu@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261008T230000Z
+DTEND:20261009T010000Z
+SUMMARY:Somos Latinos (The Latino Pan-Hellenic Council) - free food
+LOCATION:Main Mall
+DESCRIPTION:Hispanic Heritage Month celebration with performances and mus
+ ic\nOriginal post: https://www.instagram.com/p/Dd__U3jASvu/
+URL:https://www.instagram.com/p/Dd__U3jASvu/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd_tggrv19I@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261008T230000Z
+DTEND:20261009T000000Z
+SUMMARY:Roast My Resume - Pre-Industry Workshop 2 (Biomedical Engineering
+  Society) - free food
+LOCATION:BME Conference Room
+DESCRIPTION:Food: Snacks provided\nPre-Industry Workshop 2 in BMES series
+ \nOriginal post: https://www.instagram.com/p/Dd_tggrv19I/
+URL:https://www.instagram.com/p/Dd_tggrv19I/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd_nypmsWNS@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261008T230000Z
+DTEND:20261009T000000Z
+SUMMARY:Tote Bag Painting (Women in Petroleum and Geosystems Engineering)
+  - free food
+LOCATION:Room TBA
+DESCRIPTION:Room and food details to be announced\nOriginal post: https:/
+ /www.instagram.com/p/Dd_nypmsWNS/
+URL:https://www.instagram.com/p/Dd_nypmsWNS/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd9IZ-ZMp_J@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261008T230000Z
+DTEND:20261009T000000Z
+SUMMARY:Tote Bag Painting Social (Women in Petroleum and Geosystems Engin
+ eering) - free food
+LOCATION:TBD
+DESCRIPTION:Room details to be announced\nOriginal post: https://www.inst
+ agram.com/p/Dd9IZ-ZMp_J/
+URL:https://www.instagram.com/p/Dd9IZ-ZMp_J/
+END:VEVENT
+BEGIN:VEVENT
+UID:DeAZz1KupWZ@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261009T193000Z
+DTEND:20261009T203000Z
+SUMMARY:What's on Your Ballot voting info session (Texas Rising at the Un
+ iversity of Texas at Austin) - free food
+LOCATION:TBD
+DESCRIPTION:Food: Free Canes\nAll welcome\; location TBD on flyer\nOrigin
+ al post: https://www.instagram.com/p/DeAZz1KupWZ/
+URL:https://www.instagram.com/p/DeAZz1KupWZ/
+END:VEVENT
+BEGIN:VEVENT
+UID:DeEsUZrxzdx@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261010T160000Z
+DTEND:20261010T190000Z
+SUMMARY:Family Field Day (Vietnamese Students Association) - free food
+LOCATION:Ramsey Neighborhood Park\, 4301 Rosedale Ave\, Austin\, TX 78756
+DESCRIPTION:Food: Food provided (details not specified)\nCompetitive game
+ s and activities\; bring clothes that can get wet\nOriginal post: https:/
+ /www.instagram.com/p/DeEsUZrxzdx/
+URL:https://www.instagram.com/p/DeEsUZrxzdx/
+END:VEVENT
+BEGIN:VEVENT
+UID:DeCLBIoxYMG@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261010T160000Z
+DTEND:20261010T190000Z
+SUMMARY:Family Field Day (Vietnamese Students Association) - free food
+LOCATION:Ramsey Neighborhood Park\, 4301 Rosedale Ave\, Austin\, TX 78756
+DESCRIPTION:Food: Food provided\nCompetition with team/fam divisions\nOri
+ ginal post: https://www.instagram.com/p/DeCLBIoxYMG/
+URL:https://www.instagram.com/p/DeCLBIoxYMG/
+END:VEVENT
+BEGIN:VEVENT
+UID:DeATBy_tM9P@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261010T160000Z
+DTEND:20261010T190000Z
+SUMMARY:Family Field Day (Vietnamese Students Association) - free food
+LOCATION:Ramsey Neighborhood Park\, 4301 Rosedale Ave\, Austin\, TX 78756
+DESCRIPTION:Food: Food provided\nSign-up form linked in bio\; competitive
+  games and activities\nOriginal post: https://www.instagram.com/p/DeATBy_
+ tM9P/
+URL:https://www.instagram.com/p/DeATBy_tM9P/
+END:VEVENT
+BEGIN:VEVENT
+UID:DeCax9kisI7@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Fall Retreat: Rewired in Christ (Asian American Campus Ministry) 
+ - free food
+LOCATION:
+DESCRIPTION:Signups still open at time of post\nOriginal post: https://ww
+ w.instagram.com/p/DeCax9kisI7/
+URL:https://www.instagram.com/p/DeCax9kisI7/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd_1XgzT8ck@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261013T000000Z
+DTEND:20261013T010000Z
+SUMMARY:Get to know UChicago Harris (Texas Undergraduate Law and Policy A
+ ssociation) - free food
+LOCATION:Littlefield Home
+DESCRIPTION:Food: Dinner will be served\nCo-hosted by TULA and CLP\; co-h
+ osted event to learn about Harris School of Public Policy\nOriginal post:
+  https://www.instagram.com/p/Dd_1XgzT8ck/
+URL:https://www.instagram.com/p/Dd_1XgzT8ck/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd4AkiwJPCj@ut-org-events
-DTSTAMP:20261001T004337Z
+DTSTAMP:20261005T023043Z
 DTSTART:20261013T170000Z
 DTEND:20261013T180000Z
 SUMMARY:Boundless Live Podcast Lunch & Learn (Texas Hillel) - free food
@@ -969,7 +703,7 @@ URL:https://www.instagram.com/p/Dd4AkiwJPCj/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd2EgGWTzvw@ut-org-events
-DTSTAMP:20261001T004337Z
+DTSTAMP:20261005T023043Z
 DTSTART:20261014T170000Z
 DTEND:20261014T180000Z
 SUMMARY:Lunch and Learn with Patterson (Society of Women Engineers) - fre
@@ -980,8 +714,33 @@ DESCRIPTION:Food: Lunch provided\nOriginal post: https://www.instagram.co
 URL:https://www.instagram.com/p/Dd2EgGWTzvw/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd9ydLAvYEy@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261014T220000Z
+DTEND:20261014T230000Z
+SUMMARY:Smart Food Budgeting Workshop (Senate of College Councils) - free
+  food
+LOCATION:WCP 1.106
+DESCRIPTION:Food: Light refreshments\nOriginal post: https://www.instagra
+ m.com/p/Dd9ydLAvYEy/
+URL:https://www.instagram.com/p/Dd9ydLAvYEy/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd_pryEOMsq@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261017T000000Z
+DTEND:20261017T010000Z
+SUMMARY:Texas Revue UT Talent Show (Campus Events + Entertainment) - free
+  food
+LOCATION:Hogg Auditorium
+DESCRIPTION:Food: free snacks\ndoors open at 6:30 PM\; raffle prizes and 
+ audience voting for $1\,500 prize pool\nOriginal post: https://www.instag
+ ram.com/p/Dd_pryEOMsq/
+URL:https://www.instagram.com/p/Dd_pryEOMsq/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd5RTF1OsEa@ut-org-events
-DTSTAMP:20261001T004337Z
+DTSTAMP:20261005T023043Z
 DTSTART:20261017T163000Z
 DTEND:20261017T173000Z
 SUMMARY:BBQ with the Docs (Black Health Professions Organization- MAPS Ch
@@ -992,8 +751,20 @@ DESCRIPTION:Members only\nDues required to attend\nOriginal post: https:/
 URL:https://www.instagram.com/p/Dd5RTF1OsEa/
 END:VEVENT
 BEGIN:VEVENT
+UID:DeCkJo4kVug@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261022T233000Z
+DTEND:20261023T030000Z
+SUMMARY:Mosaics of Nueces Poetry Night (Nueces Mosque - Student Chapter) 
+ - free food
+LOCATION:Nueces Mosque
+DESCRIPTION:Food: Dinner provided\nFinal poetry night in original yellow 
+ Nueces house\nOriginal post: https://www.instagram.com/p/DeCkJo4kVug/
+URL:https://www.instagram.com/p/DeCkJo4kVug/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd25HDdkaec@ut-org-events
-DTSTAMP:20261001T004337Z
+DTSTAMP:20261005T023043Z
 DTSTART:20261023T233000Z
 DTEND:20261024T030000Z
 SUMMARY:Mosaics of Nueces Poetry Night (Nueces Mosque - Student Chapter) 
@@ -1005,7 +776,7 @@ URL:https://www.instagram.com/p/Dd25HDdkaec/
 END:VEVENT
 BEGIN:VEVENT
 UID:Ddz9wI6Fifv@ut-org-events
-DTSTAMP:20261001T004337Z
+DTSTAMP:20261005T023043Z
 DTSTART:20261024T170000Z
 DTEND:20261024T180000Z
 SUMMARY:Team Matching & Ideation Pitching Workshop (Freetail Hackers) - f
@@ -1015,5 +786,18 @@ DESCRIPTION:Food: snacks mentioned ("EAT ME" on flyer)\nHackTX 26 worksho
  ps\; also Major League Hacking Copilot Workshop Oct 24 3pm-4pm\nOriginal 
  post: https://www.instagram.com/p/Ddz9wI6Fifv/
 URL:https://www.instagram.com/p/Ddz9wI6Fifv/
+END:VEVENT
+BEGIN:VEVENT
+UID:DeChk5MxSfV@ut-org-events
+DTSTAMP:20261005T023043Z
+DTSTART:20261026T233000Z
+DTEND:20261027T013000Z
+SUMMARY:Halloween Event (Lifelong Learning with Friends at the University
+  of Texas at Austin) - free food
+LOCATION:UT Austin Campus
+DESCRIPTION:Food: Light snacks and water provided\nCollaborative event wi
+ th ATX NCC\; open to all LLwF students\, ATX NCC members\, and UT volunte
+ ers\nOriginal post: https://www.instagram.com/p/DeChk5MxSfV/
+URL:https://www.instagram.com/p/DeChk5MxSfV/
 END:VEVENT
 END:VCALENDAR
