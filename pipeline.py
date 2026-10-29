@@ -33,6 +33,7 @@ MAX_POSTS_PER_RUN = 1200         # safety cap on Claude spend per run
 BATCH_CHUNK = 120                # posts per Claude batch (keeps upload size sane)
 KEEP_PAST_DAYS = 2               # keep events in the live list up to 2 days after they happen
 HISTORY_DAYS = 365               # how far back the site's history goes
+MAX_LOOK_BACK_DAYS = 8           # after a long break, only catch up on the last 8 days (older posts are mostly past events)
 SITE_NAME = "Campus Events + Free Food"
 # -------------------------------------------------------------------------
 
@@ -112,7 +113,7 @@ def look_back_days(h, state):
     if not lc:
         return 7                                   # never checked: last week
     days = (datetime.now(timezone.utc) - lc).total_seconds() / 86400
-    return max(2, min(14, math.ceil(days + 0.25)))   # a few hours of overlap so nothing slips between runs
+    return max(2, min(MAX_LOOK_BACK_DAYS, math.ceil(days + 0.25)))   # a few hours of overlap so nothing slips
 
 
 def plan_runs():
@@ -136,6 +137,8 @@ def plan_runs():
         sleepers = [h for h in sleepers if orgs[h].get("tier") == "Tier 1"]
     if sleepers:
         runs.append((sleepers, f"{triage.SLEEPER_EVERY} days", 1))
+    if not any(r[0] for r in runs):
+        log("No accounts are due to be checked. See data/account_status.csv for why.")
     return kind, runs
 
 
@@ -443,6 +446,12 @@ def main():
     seen = {k: v for k, v in seen.items() if triage.parse_ts(v) > cutoff}
     save_json(SEEN_FILE, seen)
     public = rebuild_outputs(events)
+    try:  # weekly Instagram graphic + caption (docs/instagram/); never let this break a run
+        import daily_post
+        daily_post.make_graphic(public, daily_post.graphic_start())
+        log("Instagram graphic updated: docs/instagram/this-week.png")
+    except Exception as e:
+        log(f"Instagram graphic skipped ({type(e).__name__}: {e})")
     status = triage.report(quiet=True)
 
     empty = sum(1 for r in rows if r.get("error"))

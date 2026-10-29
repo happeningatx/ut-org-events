@@ -21,6 +21,7 @@ from pathlib import Path
 ACTIVE_DAYS = 21
 SLEEPER_EVERY = 28
 DEAD_AFTER_NOT_FOUND = 2
+CATCH_UP_DAYS = 8      # the pipeline never looks back further than this, so a longer break leaves a blind spot
 
 HERE = Path(__file__).parent
 DATA = HERE / "data"
@@ -79,6 +80,10 @@ def update_rows(rows):
             continue
         s = state.setdefault(h, {"last_post": None, "not_found": 0, "private": False, "business": None})
         s.setdefault("first_checked", today)
+        prev = parse_ts(s.get("last_checked"))
+        if prev and NOW - prev > timedelta(days=CATCH_UP_DAYS + 1):
+            # after a long break we only saw the last few days, so start the "is it quiet?" clock over
+            s["first_checked"] = (NOW - timedelta(days=CATCH_UP_DAYS)).isoformat(timespec="seconds")
         s["last_checked"] = today
         seen.add(h)
         err = row.get("error")
@@ -105,13 +110,15 @@ def status(h, state):
         return "unknown"
     if s.get("not_found", 0) >= DEAD_AFTER_NOT_FOUND or s.get("private"):
         return "dead"
+    # "Quiet" means we were watching and saw nothing for ACTIVE_DAYS. Measure from the last
+    # check, not from today, so a break in runs doesn't make every account look quiet.
+    lc = parse_ts(s.get("last_checked")) or NOW
     lp = parse_ts(s.get("last_post"))
-    if lp:
-        return "active" if NOW - lp <= timedelta(days=ACTIVE_DAYS) else "sleeper"
+    if lp and lc - lp <= timedelta(days=ACTIVE_DAYS):
+        return "active"
     fc = parse_ts(s.get("first_checked"))
-    if fc and NOW - fc >= timedelta(days=ACTIVE_DAYS):
-        return "sleeper"
-    return "unknown"
+    watched_long_enough = fc and lc - fc >= timedelta(days=ACTIVE_DAYS)
+    return "sleeper" if watched_long_enough else "unknown"
 
 
 def sleeper_due(h, state):
